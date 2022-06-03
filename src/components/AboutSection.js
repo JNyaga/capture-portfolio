@@ -20,7 +20,7 @@ export default function AboutSection() {
                 </div>
                 <p>Contact me on etc etc</p>
             </div>
-            <img src={home1} alt="home1" />
+            <img src={home1} alt="home1" width={503} height={754} />
         </div>
     )
 }
